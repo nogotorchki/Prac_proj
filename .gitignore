@@ -1,0 +1,17 @@
+# Пароли и переменные окружения
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Данные
+*.csv
+*.xlsx
+*.db
+
+# Системные файлы
+.DS_Store
